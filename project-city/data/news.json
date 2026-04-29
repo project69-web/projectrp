@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Grand Opening PROJECT CITY",
+    "short": "PROJECT CITY resmi dibuka untuk umum!",
+    "content": "PROJECT CITY resmi dibuka untuk umum! Nikmati pengalaman GTA V Roleplay dengan sistem realistis, ekonomi hidup, dan komunitas aktif.",
+    "image": "assets/images/hero.jpg",
+    "date": "2026-04-20",
+    "category": "Event",
+    "author": "Admin"
+  },
+  {
+    "id": 2,
+    "title": "Update Sistem Job",
+    "short": "Sistem pekerjaan baru lebih realistis.",
+    "content": "Kami menghadirkan sistem pekerjaan baru yang lebih realistis, mulai dari pekerjaan legal hingga ilegal dengan balancing terbaru.",
+    "image": "assets/images/hero.jpg",
+    "date": "2026-04-25",
+    "category": "Update",
+    "author": "Developer"
+  },
+  {
+    "id": 3,
+    "title": "Perbaikan Bug & Optimasi",
+    "short": "Performa server lebih stabil.",
+    "content": "Berbagai bug telah diperbaiki dan performa server ditingkatkan untuk pengalaman bermain yang lebih smooth.",
+    "image": "assets/images/hero.jpg",
+    "date": "2026-04-27",
+    "category": "Patch",
+    "author": "System"
+  },
+  {
+    "id": 4,
+    "title": "Event RP Mingguan",
+    "short": "Event mingguan dengan hadiah menarik.",
+    "content": "Ikuti event roleplay mingguan dengan hadiah menarik dan pengalaman RP yang seru bersama komunitas.",
+    "image": "assets/images/hero.jpg",
+    "date": "2026-04-29",
+    "category": "Event",
+    "author": "Admin"
+  }
+]
